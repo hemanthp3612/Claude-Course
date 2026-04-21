@@ -1,0 +1,3 @@
+Following is the command used for installing the dotenv, used for loading env variables.
+
+%pip install anthropic python-dotenv

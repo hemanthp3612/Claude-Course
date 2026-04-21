@@ -1,0 +1,11 @@
+[
+  {
+    "task": "Write a Python function that parses an AWS S3 bucket name from an S3 URI in the format 's3://bucket-name/key/path' and returns just the bucket name."
+  },
+  {
+    "task": "Create a JSON object that represents an AWS IAM policy allowing read-only access to a specific DynamoDB table named 'users-table'."
+  },
+  {
+    "task": "Write a regular expression that matches and extracts AWS ARN (Amazon Resource Name) format strings, specifically for EC2 instances in any region."
+  }
+]
